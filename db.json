@@ -1,1 +1,23 @@
-
+[
+  {"userid": 1,
+   "id": 1,
+   "title" : "travel the west coast",
+   "completed": false
+  }
+  {"userid": 1,
+   "id": 2,
+   "title" : "travel the north coast",
+   "completed": false
+  }
+  {"userid": 1,
+   "id": 3,
+   "title" : "travel the south coast",
+   "completed": false
+  }
+  {"userid": 1,
+   "id": 4,
+   "title" : "travel the east coast",
+   "completed": false
+  }
+   
+  ]
